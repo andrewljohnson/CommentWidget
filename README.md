@@ -1,5 +1,3 @@
-<h1> Comment Widget</h1>
-
 <p>CommentWidget is an easy-to-use, platform-independent, cross-browser-compatible, open-source, ajax, threaded comment widget.</p>
 
 <h1> Comment Widget - Easy Ajax Comments </h1>
